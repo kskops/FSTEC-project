@@ -1,0 +1,7 @@
+partition,records
+RU train,10114
+RU validation,2166
+RU test,2171
+Non-RU train,35391
+Non-RU validation,6237
+Non-RU excluded,35
